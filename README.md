@@ -1,5 +1,5 @@
 # fivem-stuff
- all of the Fivem stuff that Ive used or something. This shit is outdated, if you want to use it, go ahead.
+ all of the Fivem stuff that Ive used/made. This shit is outdated, if you want to use it, go ahead.
 # ITS OUTDATED
 I have used Discord.js v12 to build it. Go cry about it, keep the comments to yourself.
 # SUPPORT 
