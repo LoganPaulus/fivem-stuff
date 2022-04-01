@@ -1,3 +1,6 @@
+## OUTDATED!!!!!!!!!!!!!
+NEW VERSION IS HERE: https://github.com/LoganPaulus/Fivem-status-v13
+
 # fivem-stuff
  all of the Fivem stuff that Ive used/made. This shit is outdated, if you want to use it, go ahead.
 # ITS OUTDATED
